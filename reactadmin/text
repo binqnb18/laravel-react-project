@@ -1,0 +1,10 @@
+1. Khởi tạo database
+2. validate Form
+    -Reactjs
+    -Laravel
+3. Tạo 1 tài khoản trong database để đăng nhập
+4. Dùng JWT + refresh Token
+5.
+    -Localstorage
+    -Http Cookie Only
+6.Chuyển hướng trang về dashboard sau khi đăng nhập
